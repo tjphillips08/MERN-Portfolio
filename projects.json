@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
+      "name": "Project1:Matching PAR-ty",
       "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "git": "https://github.com/tjphillips08/Matching-PAR-ty-deployment",
+      "image": "https://i.imgur.com/I92WXyem.png"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Project2: Noob Insider",
+      "live": "https://obscure-fortress-74365.herokuapp.com/games",
+      "git": "https://github.com/tjphillips08/Video-game-news",
+      "image": "https://i.imgur.com/YPoUpcrm.png"
     }
   ]
